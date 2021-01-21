@@ -1,0 +1,12 @@
+com\notifications\service\channel\SlackChannel.class
+com\notifications\web\NotificationController.class
+com\notifications\Main.class
+com\notifications\service\channel\Channel.class
+com\notifications\swagger\SwaggerConfig.class
+com\notifications\model\ChannelType.class
+com\notifications\service\NotificationService.class
+com\notifications\model\Message.class
+com\notifications\util\EmailValidator.class
+com\notifications\service\channel\EmailChannel.class
+com\notifications\swagger\SwaggerRedirectController.class
+com\notifications\service\channel\ChannelFactory.class

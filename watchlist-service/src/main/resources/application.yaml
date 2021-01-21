@@ -1,0 +1,7 @@
+server.port: 8093
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://user:user@cluster0.bo2za.mongodb.net/test?retryWrites=true&w=majority&ssl=true&sslInvalidHostNameAllowed=true
+      port: 27017
